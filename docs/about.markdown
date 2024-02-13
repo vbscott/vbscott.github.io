@@ -4,4 +4,9 @@ title: About
 permalink: /about/
 ---
 
-It's time for me to venture into making my own online stuff. I've heard that you can host on [github](https://www.github.com) so I thought I would try it for mysel.
+"Jack of all trades is master of none
+but often times better than master of one."
+
+I am a programmer who becomes passionate about whatever I am working on. I am looking to find the next career I didn't know that I love.
+
+I have worked as a fullstack, backend, and integeration enginner.
