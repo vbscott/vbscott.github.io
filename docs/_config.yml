@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 email: cek3dt@virginia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Creating a new site to play around with. Nothing too special here.
+  Software Engineer and Linguist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vbscott.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: vbscott
