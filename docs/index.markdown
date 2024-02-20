@@ -35,13 +35,13 @@ Professor Assistant - University of Virginia
 ### 2021 - 2022
 
 Software Engineer - [Defined Networking](https://defined.net)
-- Worked with a tight knit team in a seedling startup.
+- Worked with a tight-knit team in a seedling startup.
 - SQL * Go * WireShark
 
 ### 2018, 2019 - 2021
 
 Software Engineer - [DUO Security](https://duo.com)
-- Started as an intern then transitioned to full time. Created, maintained, and managed a number of Open Source repositories including, [DUO Unix](https://github.com/duosecurity/duo_unix), [DUO Atlassian](https://github.com/duosecurity/duo_universal_atlassian), and [DUO Universal PHP](https://github.com/duosecurity/duo_universal_php)
+- Started as an intern then transitioned to full-time. Created, maintained, and managed several Open Source repositories including, [DUO Unix](https://github.com/duosecurity/duo_unix), [DUO Atlassian](https://github.com/duosecurity/duo_universal_atlassian), and [DUO Universal PHP](https://github.com/duosecurity/duo_universal_php)
 - Coauthored two blog posts. [DUO Unix Documentation](https://duo.com/blog/what-duo-unix-administrators-need-to-know-about-pluggable-authentication-modules) and [DUO Universal Guide](https://duo.com/blog/adopting-oidc-standard-for-mfa)
 - C/C++ * Python * Golang * PHP * Java * HTML * CSS * Docker * VirtualBox
 
@@ -56,7 +56,7 @@ Masters of Arts in Linguistics from the University of Virginia.
 [Dale Carnegie](https://www.dalecarnegie.com)
 
 ### 2014 - 2018
-Bachelors of Science in Computer Science from the University of Michigan.
+Bachelor of Science in Computer Science from the University of Michigan.
 
 ---
 
@@ -69,4 +69,5 @@ Hidatsa Phonology
 - Praat * Excel
 
 [Laxchio Dictionary](http://colabling.org/mukurtu/)
-- Transferred TXT file to CVS then uploaded to [Murkutu](https://mukurtu.org/).
+- Transferred TXT file to CVS and uploaded the result to [Murkutu](https://mukurtu.org/).
+
