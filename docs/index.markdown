@@ -11,7 +11,7 @@ layout: home
 
 ---
 
-## Work Expierence:
+## Work Expierence
 
 ### 2023
 
