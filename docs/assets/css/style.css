@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.body {
+    color: #c3c3c3; background-color: #111;
+}
+
+blockquote, pre, ul, ol, dl {
+    color: #828282;
+}
