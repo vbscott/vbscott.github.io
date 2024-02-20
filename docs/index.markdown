@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Veronica Scott
+# <img src="/assets/k.png" alt="drawing" width="60"/> **Veronica Scott**
 ## Backend and Integrations Software Engineer and Linguist
 
 *"Jack of all trades is master of none but often times better than master of one."*
