@@ -29,6 +29,7 @@ layout: home
 
 <div class = "details"><h4><b>Archives Intern</b> - <em><a href="https://scottsvillemuseum.com">Scottsville Museum</a></em></h4>
 <p>Conducted research into the history of buildings and businesses including generating interest by interviewing local business owners and customers.</p>
+<div class="skills">Excel</div>
 </div>
 
 <div class="details">
@@ -72,23 +73,23 @@ layout: home
 <div class="details">
 <h3>2021 - 2023</h3>
 </div>
-<div class="details"><p>
+<div class="details"><h4>
 Masters of Arts in Linguistics from the University of Virginia.
-</p></div>
+</h4></div>
 
 <div class="details">
 <h3>2019</h3>
 </div>
-<div class="details"><p>
-[Dale Carnegie](https://www.dalecarnegie.com)
-</p></div>
+<div class="details">
+<h4><a href="https://www.dalecarnegie.com">Dale Carnegie</a></h4>
+</div>
 
 <div class="details">
 <h3>2014 - 2018</h3>
 </div>
-<div class="details"><p>
+<div class="details"><h4>
 Bachelor of Science in Computer Science from the University of Michigan.
-</p></div>
+</h4></div>
 
 <div class="details"><hr></div>
 
@@ -107,8 +108,8 @@ Presented at <a href="https://www.siouan.org/sclc42-43">SILA's 43rd Annual Confe
 <div class="skills">Praat • Excel</div></div>
 
 <div class="details">
-<h4><b><a href="http://colabling.org/mukurtu/">Lachixío Dictionary</a></b></h4>
+<h4><b>Online Dictionary</b> - <em><a href="http://colabling.org/mukurtu/">Lachixío Dictionary</a></em></h4>
 <p>Created an online dictionary for Lachixío, a Native American language in Oaxaca, Mexico.</p>
 <p>Transferred thousands of dictionary entries from a TXT file to CVS and uploaded the result to <a href="https://mukurtu.org/">Mukurtu</a></p>
-<div class="skills">Python • Golang • MySQL • MySQL • Docker</div></div>
+<div class="skills">Python • Golang • MySQL • Docker</div></div>
 
