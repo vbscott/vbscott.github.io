@@ -74,22 +74,23 @@ layout: home
 <h3>2021 - 2023</h3>
 </div>
 <div class="details"><h4>
-Masters of Arts in Linguistics from the University of Virginia.
-</h4></div>
+<b>Masters of Arts</b> - <em>Linguistics</em>
+</h4><div class="uni">University of Virginia</div></div>
 
 <div class="details">
 <h3>2019</h3>
 </div>
 <div class="details">
-<h4><a href="https://www.dalecarnegie.com">Dale Carnegie</a></h4>
+<h4><b>Dale Carnegie Cource</b> - <em><a href="https://www.dalecarnegie.com">Dale Carnegie</a></em></h4>
+<div class="uni">Ann Arbor, MI</div>
 </div>
 
 <div class="details">
 <h3>2014 - 2018</h3>
 </div>
 <div class="details"><h4>
-Bachelor of Science in Computer Science from the University of Michigan.
-</h4></div>
+<b>Bachelor of Science</b> - <em>Computer Science</em>
+</h4><div class="uni">University of Michigan</div></div>
 
 <div class="details"><hr></div>
 

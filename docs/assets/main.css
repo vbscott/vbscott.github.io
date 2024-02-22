@@ -21,10 +21,13 @@ hr {
     margin-bottom: 0px;
 }
 
-.skills {
+.skills, .uni {
  color: #747277;
- text-align: center;
  margin-bottom: 15px;
+}
+
+.skills {
+ text-align: center;
 }
 
 .details {
