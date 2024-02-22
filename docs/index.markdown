@@ -11,6 +11,11 @@ layout: home
 
 ---
 
+## Table of Contents
+1. [Work Expierence](#work-expierence)
+2. [Education](#education)
+3. [Projects](#projects)
+
 ## Work Expierence
 
 ### 2023
@@ -45,7 +50,7 @@ Coauthored two blog posts. [DUO Unix Documentation](https://duo.com/blog/what-du
 
 ---
 
-## Education:
+## Education
 
 ### 2021 - 2023
 Masters of Arts in Linguistics from the University of Virginia.
@@ -58,7 +63,7 @@ Bachelor of Science in Computer Science from the University of Michigan.
 
 ---
 
-## Projects:
+## Projects
 
 ### 2023 - Current
 
