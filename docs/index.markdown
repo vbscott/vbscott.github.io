@@ -18,6 +18,13 @@ layout: home
 </div>
 
 <div class="details">
+<h3>2024</h3>
+<h4><b>Long Term Coding Substitute</b> - <em>Albemarle County Public Schools</em></h4>
+<p>Created engaging daily lessons for middle school students. Led initiatives to create interdisciplinary lessons to integrate concepts from other classes.</p>
+<div class="skills">Virtual Basic • Python • Arduino</div>
+</div>
+
+<div class="details">
 <h3>2023</h3>
 </div>
 
